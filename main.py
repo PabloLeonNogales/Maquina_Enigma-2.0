@@ -6,7 +6,6 @@
 from ClassRotor import *
 from ClassReflector import *
 from piezas import *
-from ClassEngranaje import *
 
 class Enigma():
 
